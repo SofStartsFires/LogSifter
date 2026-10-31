@@ -8,6 +8,8 @@ It allows developers and site reliability engineers to ingest raw, unstructured 
 
 ## Features
 
+<img width="1105" height="975" alt="image" src="https://github.com/user-attachments/assets/d3e982cc-3004-4392-867f-8edae5c5ea73" />
+
 - **Dual Log Ingestion**
   - **Paste Raw Buffer:** Paste unstructured server, container, or application logs directly into the workbench.
   - **In-Memory File Upload:** Drag and drop or browse for `.log`, `.txt`, `.out`, `.err`, `.json`, or `.csv` files (up to 15 MB) processed directly in memory via `multer.memoryStorage()` without writing temporary files to disk.
